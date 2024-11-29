@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "jhfjfjgvj",
+      "email": "alhgfuydf@gfdxhgfc",
+      "role": "Admin",
+      "id": "1"
+    },
+    {
+      "name": "Shah",
+      "email": "gdgd#jytd",
+      "role": "Editor",
+      "id": "bd1a"
+    },
+    {
+      "name": "hfjyf",
+      "email": "jhfjd@hgfj",
+      "role": "User",
+      "id": "d407"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Editor",
+      "permissions": [
+        "Read",
+        "Write"
+      ],
+      "id": "2"
+    },
+    {
+      "id": "2ca4",
+      "name": "Account",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "24cc",
+      "name": "Admin",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ]
+    },
+    {
+      "id": "6fa0",
+      "name": "User",
+      "permissions": [
+        "Read"
+      ]
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "name": "Read"
+    },
+    {
+      "id": 2,
+      "name": "Write"
+    },
+    {
+      "id": 3,
+      "name": "Delete"
+    }
+  ]
+}
